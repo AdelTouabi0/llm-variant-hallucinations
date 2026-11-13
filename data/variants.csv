@@ -1,0 +1,19 @@
+variant,category,gene,disease
+rs334,reel,HBB,Drépanocytose
+rs429358,reel,APOE,Maladie d'Alzheimer (risque)
+rs7412,reel,APOE,Maladie d'Alzheimer (protection) / dyslipidémie
+rs6025,reel,F5,Thrombophilie (facteur V Leiden)
+rs1801133,reel,MTHFR,Hyperhomocystéinémie
+rs1800562,reel,HFE,Hémochromatose héréditaire
+rs113993960,reel,CFTR,Mucoviscidose (F508del)
+rs113488022,complexe,BRAF,Mélanome et autres cancers (V600E somatique)
+rs9939609,complexe,FTO,Obésité (risque modéré)
+rs4680,complexe,COMT,Associations comportementales et douleur (controversées)
+rs1800497,complexe,ANKK1,Associations addictologiques (controversées)
+rs1799945,complexe,HFE,Surcharge en fer (effet faible)
+rs99999999901,synthetique,,
+rs99999999902,synthetique,,
+rs99999999903,synthetique,,
+rs99999999904,synthetique,,
+rs99999999905,synthetique,,
+rs99999999906,synthetique,,
